@@ -8,7 +8,6 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  int _turnss = 0;
   int _turns = 0;
   double _value = 0.0;
 
